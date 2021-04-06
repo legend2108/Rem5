@@ -62,7 +62,7 @@ const vcard = 'BEGIN:VCARD\n'//JANGAN DI GANTI ANJING
             + 'VERSION:3.0\n'//JANGAN DI GANTI ANJING,NTAR EROR
             + 'FN:Owner Eddy\n' // GANTI NAMA LU BODOH
             + 'ORG: EDBOT;\n'//GANTI NAMA BOT LUH BANGSAT
-            + 'TEL;type=CELL;type=VOICE;waid=62895377298173:+62 895-37729-8173\n' // GANTI NOMOR LU BEGONIAN
+            + 'TEL;type=CELL;type=VOICE;waid=62895377298173:+62 895-3772-98173\n' // GANTI NOMOR LU BEGONIAN
             + 'END:VCARD'
 // UDAH SEGITU KONTOLL KEBAWAH BIARIN AJA
 const ngonsol = JSON.parse(fs.readFileSync('./settings/Rem.json'))
